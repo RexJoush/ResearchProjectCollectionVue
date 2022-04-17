@@ -1,6 +1,6 @@
 <template>
   <div style="padding:30px;">
-    论文管理
+    论文管理test
     <el-alert :closable="false" title="menu 1">
       <router-view />
     </el-alert>
